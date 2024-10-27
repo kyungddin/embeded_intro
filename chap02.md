@@ -50,7 +50,7 @@
 * GPIO(General Purpose Input/Output)
     * CPU가 외부로부터의 입력 및 출력을 범용으로 입출력할 수 있게하는 포트 (마컴시에서 맛봤는데..)
 
-# CPU
+### CPU
 * CPU = PC + Decoder + register + ALU
 * PC: 방금 실행한 Instruction의 주소를 저장한다
 * 디코더: Instruction을 해독한다
